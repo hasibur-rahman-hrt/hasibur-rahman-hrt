@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" width="100%" alt="Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Hasibur Rahman</h1>
 <h3 align="center">💻 Java & Python Developer | 🌱 AI Learner | 🎯 Focused on clean, scalable code</h3>
 
@@ -9,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on *Java Spring Boot backend projects*
-- 🌱 Learning *AI, **React, and **full-stack development*
-- 🤝 Looking to collaborate on *open-source projects and student dev teams*
+- 🔭 Currently working on Java Spring Boot backend projects
+- 🌱 Learning AI, React, and full-stack development
+- 🤝 Looking to collaborate on open-source projects and student dev teams
 - 📫 How to reach me: *mdhasiburrahman0111@gmail.com*
 - ⚡ Fun fact: I love writing code that solves real-world problems efficiently
 
@@ -45,15 +48,6 @@
   <a href="https://www.linkedin.com/in/hasibur-rahman-rahman-hrt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/hasibur.rahman.hrt" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
----
-
-## 📌 Pinned Projects
-
-- 🧠 [AI Chatbot in Python](https://github.com/hasibur-rahman/python-ai-chatbot)
-- 📘 [Java Student Management System](https://github.com/hasibur-rahman/java-student-management)
-- 🌐 [Portfolio Website](https://github.com/hasibur-rahman/portfolio)
-- 💬 [React Blog Platform](https://github.com/hasibur-rahman/react-blog)
 
 ---
 
