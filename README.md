@@ -12,12 +12,16 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Java Spring Boot backend projects
-- 🌱 Learning AI, React, and full-stack development
-- 🤝 Looking to collaborate on open-source projects and student dev teams
-- 📫 How to reach me: *mdhasiburrahman0111@gmail.com*
-- ⚡ Fun fact: I love writing code that solves real-world problems efficiently
+Hey there! I'm *Hasibur Rahman*, a passionate Computer Science student with a growing love for software development and problem-solving.
 
+- 📚 I'm currently learning *Java* and *Python* — building a solid foundation in programming
+- 🧠 I'm deeply curious about how real-world systems work and how code powers innovation
+- 🌱 Exploring areas like *Object-Oriented Programming, **Data Structures, and basic **AI concepts*
+- 🔭 Actively building mini projects to apply what I learn and boost my skills
+- 💬 I love sharing knowledge, asking questions, and collaborating with other learners and devs
+- 🎯 My goal is to become a confident full-stack developer and contribute to open-source in the near future
+
+✨ "Every great developer you know once struggled to learn code — I’m embracing that journey, one line at a time."
 ---
 
 ## 🚀 Languages & Tools
@@ -42,11 +46,12 @@
 ---
 
 ## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:mdhasiburrahman0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hasibur-rahman-rahman-hrt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/hasibur.rahman.hrt" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<h3 align="left"></h3>
+<p align="left">
+<a href="https://linkedin.com/in/hasibur-rahman-hrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasibur-rahman-hrt" height="30" width="40" /></a>
+<a href="https://fb.com/@hasibur.rahman.hrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@hasibur.rahman.hrt" height="30" width="40" /></a>
+<a href="https://instagram.com/its_me_hrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_hrt" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hasibur_rahman60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasibur_rahman60" height="30" width="40" /></a>
 </p>
 
 ---
